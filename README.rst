@@ -69,7 +69,7 @@ Per Tweet it scrapes the following information:
  + Tweet timestamp
  + Tweet Epoch timestamp
  + Tweet No. of likes
- + Tweet No. of replies
+ + Tweet No. of replie
  + Tweet No. of retweets
  + Username
  + User Full Name / Screen Name
@@ -79,7 +79,7 @@ Per Tweet it scrapes the following information:
  + List of users Tweet is an reply to
  + Tweet ID of parent tweet
 
- 
+
 In addition it can scrape for the following user information:
  + Date user joined
  + User location (if filled in)
